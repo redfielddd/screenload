@@ -81,11 +81,7 @@ var l_musicDisplay = false;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
-	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
-	{youtube: "-7VeTkLKdDw", name: "Departure"}
-];
+	{ogg: "songs/Star Wars - The Force theme [1 hour loop].ogg", name: "Star Wars - The Force theme [1 hour loop]"},];
 
 /*Random music order?*/
 var l_musicRandom = true;
