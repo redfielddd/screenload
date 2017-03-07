@@ -81,7 +81,8 @@ var l_musicDisplay = false;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Star Wars - The Force theme [1 hour loop].ogg", name: "Star Wars - The Force theme [1 hour loop]"},];
+	{ogg: "songs/Star Wars - The Force theme [1 hour loop].ogg", name: "Star Wars - The Force theme [1 hour loop]"},
+];
 
 /*Random music order?*/
 var l_musicRandom = true;
@@ -97,7 +98,10 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Enjoy the server",
 "Thanks for joining us!",
-"Follow the rules!"
+"Follow the rules!",
+"Welcome to KarmaRP!",
+"Read the MOTD",
+"Install the server pack!"
 ];
 
 /*Random message order?*/
