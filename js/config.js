@@ -81,7 +81,7 @@ var l_musicDisplay = false;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg:}
+	{ogg:, name:}
 ];
 
 /*Random music order?*/
@@ -101,7 +101,8 @@ var l_messages = [
 "Follow the rules!",
 "Welcome to KarmaRP!",
 "Read the MOTD",
-"Install the server pack!"
+"Install the server pack!",
+"Have fun!"
 ];
 
 /*Random message order?*/
