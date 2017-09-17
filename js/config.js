@@ -49,7 +49,7 @@ var l_background = ""
 /*(Image-background only)
 Place one or more images
 Multiple images will automatically shuffle between them*/
-var l_bgImages = ["https://steamuserimages-a.akamaihd.net/ugc/499155130702391949/570FACEB23FCBCC91DF2EDB047ED05AC7B58FCDA/"];
+var l_bgImages = ["https://steamuserimages-a.akamaihd.net/ugc/499155130702391949/570FACEB23FCBCC91DF2EDB047ED05AC7B58FCDA"];
 
 /*Random background images order?*/
 var l_bgImagesRandom = true;
