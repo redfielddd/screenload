@@ -44,12 +44,12 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = ""
+var l_background = "gg.png"
 
 /*(Image-background only)
 Place one or more images
 Multiple images will automatically shuffle between them*/
-var l_bgImages = ["https://steamuserimages-a.akamaihd.net/ugc/499155130702391949/570FACEB23FCBCC91DF2EDB047ED05AC7B58FCDA"];
+var l_bgImages = ["gg.png"];
 
 /*Random background images order?*/
 var l_bgImagesRandom = true;
