@@ -81,7 +81,7 @@ var l_musicDisplay = false;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Star Wars - The Force theme [1 hour loop].ogg", name: "Star Wars - The Force theme [1 hour loop]"}
+	{ogg:}
 ];
 
 /*Random music order?*/
