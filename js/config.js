@@ -81,7 +81,7 @@ var l_musicDisplay = false;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg:, name:}
+	{ogg: "songs/Star Wars - The Force [1 hour loop].ogg", name: "Star Wars - The Force theme [1 hour loop]"}
 ];
 
 /*Random music order?*/
@@ -101,8 +101,7 @@ var l_messages = [
 "Follow the rules!",
 "Welcome to KarmaRP!",
 "Read the MOTD",
-"Install the server pack!",
-"Have fun!"
+"Install the server pack!"
 ];
 
 /*Random message order?*/
